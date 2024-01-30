@@ -1,0 +1,6 @@
+train : C:\Users\ismail\Desktop\project lesieur\Equipments detection\train
+val : C:\Users\ismail\Desktop\project lesieur\Equipments detection\val
+
+nc : 3
+
+names : ["hat","vest","gloves"]
