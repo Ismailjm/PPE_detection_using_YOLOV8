@@ -1,6 +1,6 @@
-## EPI Detection
+## PPE Detection
 
-The "EPI Detection" project is a computer vision application developed to detect and recognize Personal Protective Equipment (PPE) in industrial settings. Leveraging the power of deep learning and the YOLO (You Only Look Once) object detection algorithm, this project aims to enhance workplace safety by identifying and ensuring the proper usage of essential safety equipment such as helmets, safety vests, gloves, and safety glasses. By detecting the presence or absence of PPE in real-time video streams or images, this application provides valuable insights to help prevent workplace accidents and promote a culture of safety. 
+The "PPE Detection" project is a computer vision application developed to detect and recognize Personal Protective Equipment (PPE) in industrial settings. Leveraging the power of deep learning and the YOLO (You Only Look Once) object detection algorithm, this project aims to enhance workplace safety by identifying and ensuring the proper usage of essential safety equipment such as helmets, safety vests, gloves, and safety glasses. By detecting the presence or absence of PPE in real-time video streams or images, this application provides valuable insights to help prevent workplace accidents and promote a culture of safety. 
 
 ### Key Features:
 - Real-time detection of Personal Protective Equipment (PPE) including helmets, safety vests, gloves, and safety glasses.
