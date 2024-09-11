@@ -1,10 +1,14 @@
+# Importing necessary libraries
 from ultralytics import YOLO
 import cv2
 import time 
 import threading
 
+# set the model 
 model = YOLO('yolov8s_custom.pt')
+# set the source of detection
 cap = cv2.VideoCapture('2.mp4')
+
 last_check_time = time.time()
 
 while True:
